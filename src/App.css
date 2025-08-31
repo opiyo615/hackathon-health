@@ -1,0 +1,20 @@
+/* App.css */
+h1 {
+    color:darkblue;
+    text-align:center;
+    margin-top:20px;
+}
+
+
+button {
+    background-color: orange;
+    COLOR:WHITE;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkorange;
+}
